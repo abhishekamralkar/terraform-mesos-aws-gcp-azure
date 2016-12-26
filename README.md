@@ -1,1 +1,0 @@
-# terraform-mesos-public-cloud
